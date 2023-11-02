@@ -81,14 +81,14 @@ export const info = {
     portfolio: [ 
         {
             title: "Ice-cream store ",
-            live: "https://commandercooldev.github.io/Team-Project/", 
+            live: "https://commandercooldev.github.io/Ice-cream-store/", 
             source: "https://github.com/CommanderCoolDev/Ice-cream-store", 
             image: mock1
         },
         {
-            title: "Project 2",
-            live: "https://paytonpierce.dev",
-            source: "https://github.com/paytonjewell",
+            title: "Figli book app",
+            live: "https://commandercooldev.github.io/figli-book-app",
+            source: "https://github.com/CommanderCoolDev/figli-book-app",
             image: mock2
         },
         {
