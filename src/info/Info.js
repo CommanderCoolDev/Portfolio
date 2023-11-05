@@ -82,7 +82,7 @@ export const info = {
     },
     {
       label: 'cooking(sometimes)',
-      emoji: '🌶',
+      emoji: '🍲',
     },
   ],
   portfolio: [
